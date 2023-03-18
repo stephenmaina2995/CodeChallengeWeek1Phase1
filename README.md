@@ -8,7 +8,9 @@ The speed detector award demerit points to drivers who exceed the limit by each 
 ## Net Salary Calculator (Toy Problem)
 The net salary is calculated by deducting the PAYE, NSSF and NHIF from the gross salary. The amount of deduction is detemined by the use of control structues. 
 ## Contact
-my contact stephenmaina2995@gmail.com 
+my contact stephenmaina2995@gmail.c
+## Installation
+To install git clone git@github.com:stephenmaina2995/CodeChallengeWeek1Phase1.git in the terminal and run the html file in a browser window.
 ## License
 MIT License
 
